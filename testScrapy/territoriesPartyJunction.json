@@ -1,0 +1,405 @@
+[
+    {
+        "state_name": "Andhra Pradesh",
+        "unique_state_number": "2",
+        "party_name": "Telangana Rashtra Samithi",
+        "unique_party_number": "49"
+    },
+    {
+        "state_name": "Andhra Pradesh",
+        "unique_state_number": "2",
+        "party_name": "Telugu Desam",
+        "unique_party_number": "50"
+    },
+    {
+        "state_name": "Andhra Pradesh",
+        "unique_state_number": "2",
+        "party_name": "Yuvajana Sramika Rythu Congress Party",
+        "unique_party_number": "52"
+    },
+    {
+        "state_name": "Arunachal Pradesh",
+        "unique_state_number": "3",
+        "party_name": "People’s Party of Arunachal",
+        "unique_party_number": "40"
+    },
+    {
+        "state_name": "Assam",
+        "unique_state_number": "4",
+        "party_name": "All India United Democratic Front",
+        "unique_party_number": "14"
+    },
+    {
+        "state_name": "Assam",
+        "unique_state_number": "4",
+        "party_name": "Asom Gana Parishad",
+        "unique_party_number": "15"
+    },
+    {
+        "state_name": "Assam",
+        "unique_state_number": "4",
+        "party_name": "Bodoland Peoples Front",
+        "unique_party_number": "17"
+    },
+    {
+        "state_name": "Bihar",
+        "unique_state_number": "5",
+        "party_name": "Janata Dal (United)",
+        "unique_party_number": "28"
+    },
+    {
+        "state_name": "Bihar",
+        "unique_state_number": "5",
+        "party_name": "Lok Jan Shakti Party",
+        "unique_party_number": "32"
+    },
+    {
+        "state_name": "Bihar",
+        "unique_state_number": "5",
+        "party_name": "Rashtriya Janata Dal",
+        "unique_party_number": "42"
+    },
+    {
+        "state_name": "Bihar",
+        "unique_state_number": "5",
+        "party_name": "Rashtriya Lok Samta Party",
+        "unique_party_number": "44"
+    },
+    {
+        "state_name": "Goa",
+        "unique_state_number": "10",
+        "party_name": "Goa Forward Party",
+        "unique_party_number": "20"
+    },
+    {
+        "state_name": "Goa",
+        "unique_state_number": "10",
+        "party_name": "Maharashtrawadi Gomantak",
+        "unique_party_number": "34"
+    },
+    {
+        "state_name": "Haryana",
+        "unique_state_number": "12",
+        "party_name": "Indian National Lok Dal",
+        "unique_party_number": "22"
+    },
+    {
+        "state_name": "Jammu & Kashmir",
+        "unique_state_number": "14",
+        "party_name": "J&K National Conference",
+        "unique_party_number": "24"
+    },
+    {
+        "state_name": "Jammu & Kashmir",
+        "unique_state_number": "14",
+        "party_name": "J&K National Panthers Party",
+        "unique_party_number": "25"
+    },
+    {
+        "state_name": "Jammu & Kashmir",
+        "unique_state_number": "14",
+        "party_name": "J&K Peoples Democratic \r\nParty",
+        "unique_party_number": "26"
+    },
+    {
+        "state_name": "Jharkhand",
+        "unique_state_number": "15",
+        "party_name": "All Jharkhand Students Union",
+        "unique_party_number": "9"
+    },
+    {
+        "state_name": "Jharkhand",
+        "unique_state_number": "15",
+        "party_name": "Jharkhand Mukti Morcha",
+        "unique_party_number": "29"
+    },
+    {
+        "state_name": "Jharkhand",
+        "unique_state_number": "15",
+        "party_name": "Jharkhand Vikas Morcha (Prajatantrik)",
+        "unique_party_number": "30"
+    },
+    {
+        "state_name": "Jharkhand",
+        "unique_state_number": "15",
+        "party_name": "Rashtriya Janata Dal",
+        "unique_party_number": "42"
+    },
+    {
+        "state_name": "Karnataka",
+        "unique_state_number": "16",
+        "party_name": "Bharatiya Janata Party",
+        "unique_party_number": "3",
+        "seats_won_2018": "104",
+        "total_seats": "222",
+        "declared_criminal_cases": "238",
+        "num_candidates": "223",
+        "cases_per_candidate": "1.067264574"
+    },
+    {
+        "state_name": "Karnataka",
+        "unique_state_number": "16",
+        "party_name": "Indian National Congress",
+        "unique_party_number": "6",
+        "seats_won_2018": "78",
+        "total_seats": "222",
+        "declared_criminal_cases": "137",
+        "num_candidates": "215",
+        "cases_per_candidate": "0.637209302"
+    },
+    {
+        "state_name": "Karnataka",
+        "unique_state_number": "16",
+        "party_name": "Bahujan Samaj Party",
+        "unique_party_number": "2",
+        "seats_won_2018": "1",
+        "total_seats": "222",
+        "declared_criminal_cases": "12",
+        "num_candidates": "18",
+        "cases_per_candidate": "0.666666667"
+    },
+    {
+        "state_name": "Karnataka",
+        "unique_state_number": "16",
+        "party_name": "Karnataka Pragnyavantha Janatha Party",
+        "unique_party_number": "1040",
+        "seats_won_2018": "1",
+        "total_seats": "222",
+        "declared_criminal_cases": "1",
+        "num_candidates": "31",
+        "cases_per_candidate": "0.032258065"
+    },
+    {
+        "state_name": "Karnataka",
+        "unique_state_number": "16",
+        "party_name": "Janata Dal (Secular)",
+        "unique_party_number": "27",
+        "seats_won_2018": "37",
+        "total_seats": "222",
+        "declared_criminal_cases": "116",
+        "num_candidates": "199",
+        "cases_per_candidate": "0.582914573"
+    },
+    {
+        "state_name": "Kerala",
+        "unique_state_number": "17",
+        "party_name": "Indian Union Muslim League",
+        "unique_party_number": "23"
+    },
+    {
+        "state_name": "Kerala",
+        "unique_state_number": "17",
+        "party_name": "Janata Dal (Secular)",
+        "unique_party_number": "27"
+    },
+    {
+        "state_name": "Kerala",
+        "unique_state_number": "17",
+        "party_name": "Kerala Congress (M)",
+        "unique_party_number": "31"
+    },
+    {
+        "state_name": "Kerala",
+        "unique_state_number": "17",
+        "party_name": "Revolutionary Socialist Party",
+        "unique_party_number": "45"
+    },
+    {
+        "state_name": "Maharashtra",
+        "unique_state_number": "20",
+        "party_name": "Maharashtra Navnirman Sena",
+        "unique_party_number": "33"
+    },
+    {
+        "state_name": "Maharashtra",
+        "unique_state_number": "20",
+        "party_name": "Shiv Sena",
+        "unique_party_number": "48"
+    },
+    {
+        "state_name": "Manipur",
+        "unique_state_number": "21",
+        "party_name": "Naga Peoples Front",
+        "unique_party_number": "37"
+    },
+    {
+        "state_name": "Manipur",
+        "unique_state_number": "21",
+        "party_name": "National People’s Party",
+        "unique_party_number": "38"
+    },
+    {
+        "state_name": "Manipur",
+        "unique_state_number": "21",
+        "party_name": "People's Democratic Alliance",
+        "unique_party_number": "41"
+    },
+    {
+        "state_name": "Meghalaya",
+        "unique_state_number": "22",
+        "party_name": "Hill State People’s Democratic Party",
+        "unique_party_number": "21"
+    },
+    {
+        "state_name": "Meghalaya",
+        "unique_state_number": "22",
+        "party_name": "National People’s Party",
+        "unique_party_number": "38"
+    },
+    {
+        "state_name": "Meghalaya",
+        "unique_state_number": "22",
+        "party_name": "United Democratic Party",
+        "unique_party_number": "51"
+    },
+    {
+        "state_name": "Mizoram",
+        "unique_state_number": "23",
+        "party_name": "Mizo National Front",
+        "unique_party_number": "35"
+    },
+    {
+        "state_name": "Mizoram",
+        "unique_state_number": "23",
+        "party_name": "Mizoram People’s Conference",
+        "unique_party_number": "36"
+    },
+    {
+        "state_name": "Mizoram",
+        "unique_state_number": "23",
+        "party_name": "Zoram Nationalist Party",
+        "unique_party_number": "53"
+    },
+    {
+        "state_name": "Nagaland",
+        "unique_state_number": "24",
+        "party_name": "Naga Peoples Front",
+        "unique_party_number": "37"
+    },
+    {
+        "state_name": "NCT of Delhi",
+        "unique_state_number": "25",
+        "party_name": "Aam Aadmi Party",
+        "unique_party_number": "8"
+    },
+    {
+        "state_name": "Odisha",
+        "unique_state_number": "26",
+        "party_name": "Biju Janata Dal",
+        "unique_party_number": "16"
+    },
+    {
+        "state_name": "Puducherry",
+        "unique_state_number": "27",
+        "party_name": "All India Anna Dravida Munnetra Kazhagam",
+        "unique_party_number": "10"
+    },
+    {
+        "state_name": "Puducherry",
+        "unique_state_number": "27",
+        "party_name": "All India N.R. Congress",
+        "unique_party_number": "13"
+    },
+    {
+        "state_name": "Puducherry",
+        "unique_state_number": "27",
+        "party_name": "Dravida Munnetra Kazhagam",
+        "unique_party_number": "19"
+    },
+    {
+        "state_name": "Puducherry",
+        "unique_state_number": "27",
+        "party_name": "Pattali Makkal Katchi",
+        "unique_party_number": "39"
+    },
+    {
+        "state_name": "Punjab",
+        "unique_state_number": "28",
+        "party_name": "Aam Aadmi Party",
+        "unique_party_number": "8"
+    },
+    {
+        "state_name": "Punjab",
+        "unique_state_number": "28",
+        "party_name": "Shiromani Akali Dal",
+        "unique_party_number": "47"
+    },
+    {
+        "state_name": "Sikkim",
+        "unique_state_number": "30",
+        "party_name": "Sikkim Democratic Front",
+        "unique_party_number": "54"
+    },
+    {
+        "state_name": "Sikkim",
+        "unique_state_number": "30",
+        "party_name": "Sikkim Krantikari Morcha",
+        "unique_party_number": "55"
+    },
+    {
+        "state_name": "Tamil Nadu",
+        "unique_state_number": "31",
+        "party_name": "All India Anna Dravida Munnetra Kazhagam",
+        "unique_party_number": "10"
+    },
+    {
+        "state_name": "Tamil Nadu",
+        "unique_state_number": "31",
+        "party_name": "Desiya Murpokku Dravida Kazhagam",
+        "unique_party_number": "18"
+    },
+    {
+        "state_name": "Tamil Nadu",
+        "unique_state_number": "31",
+        "party_name": "Dravida Munnetra Kazhagam",
+        "unique_party_number": "19"
+    },
+    {
+        "state_name": "Telangana",
+        "unique_state_number": "32",
+        "party_name": "All India Majlis-E Ittehadul Muslimeen",
+        "unique_party_number": "12"
+    },
+    {
+        "state_name": "Telangana",
+        "unique_state_number": "32",
+        "party_name": "Telangana Rashtra Samithi",
+        "unique_party_number": "49"
+    },
+    {
+        "state_name": "Telangana",
+        "unique_state_number": "32",
+        "party_name": "Telugu Desam",
+        "unique_party_number": "50"
+    },
+    {
+        "state_name": "Telangana",
+        "unique_state_number": "32",
+        "party_name": "Yuvajana Sramika Rythu Congress Party",
+        "unique_party_number": "52"
+    },
+    {
+        "state_name": "Uttar Pradesh",
+        "unique_state_number": "34",
+        "party_name": "Rashtriya Lok Dal",
+        "unique_party_number": "43"
+    },
+    {
+        "state_name": "Uttar Pradesh",
+        "unique_state_number": "34",
+        "party_name": "Samajwadi Party",
+        "unique_party_number": "46"
+    },
+    {
+        "state_name": "West Bengal",
+        "unique_state_number": "36",
+        "party_name": "All India Forward Bloc",
+        "unique_party_number": "11"
+    },
+    {
+        "state_name": "West Bengal",
+        "unique_state_number": "36",
+        "party_name": "Revolutionary Socialist Party",
+        "unique_party_number": "45"
+    }
+]

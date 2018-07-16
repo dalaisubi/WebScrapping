@@ -1,7 +1,7 @@
 import scrapy
 
 
-class Loksabha(scrapy.Spider):
+class PoliticalParty(scrapy.Spider):
     name = "politicalParty"
 
     def start_requests(self):
